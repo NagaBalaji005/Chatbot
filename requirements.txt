@@ -1,0 +1,4 @@
+streamlit==1.15.0
+scikit-learn==1.0.2
+nltk==3.7
+pickle-mixin==1.0.2
